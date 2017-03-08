@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="37518087639952"
+    token="-1407445386462825916"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="37246648901532"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="37518087639952"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

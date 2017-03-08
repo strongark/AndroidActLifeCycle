@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2d8fa5f6e3f809eb81bdc4c8815029b97988ed0e">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ed74f06d611637c320544eead2da3ea7fd099d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3712e325468857f2c3aa6410388db55efb48d436">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d50c2b5e34db1f67e89377c0642f67ddc3328c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_924f4bc57d46937f67722cc032cce29b27f0268c/classes.dex" />
+    </item>
+
+</items>

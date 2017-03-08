@@ -1,0 +1,7 @@
+#Tue Mar 07 15:35:52 PST 2017
+base.0=/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d50c2b5e34db1f67e89377c0642f67ddc3328c21
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ed74f06d611637c320544eead2da3ea7fd099d5/classes.dex
+base.1=/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ed74f06d611637c320544eead2da3ea7fd099d5
+file.0=/Users/tranpham/Documents/SJSU/Mobile Application/Homework/activity-lifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d50c2b5e34db1f67e89377c0642f67ddc3328c21/classes.dex
